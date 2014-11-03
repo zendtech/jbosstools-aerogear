@@ -55134,7 +55134,7 @@ if (!localStorage2.ripple) {
 										{
 											"id":"tinyhippos-settings-xhr-proxy-setting",
 											"key":"settings-xhr-proxy-setting",
-											"value":"remote",
+											"value":"disabled",
 											"prefix":"tinyhippos-"
 										},
 					"tinyhippos-settings-xhr-proxy-local-port":
